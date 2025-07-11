@@ -2,8 +2,6 @@
 
 A deep learning approach to automatically detect fake news using fine-tuned BERT transformer models. This project demonstrates the effectiveness of transfer learning for misinformation detection tasks.
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 
 Overview
 
