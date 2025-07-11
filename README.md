@@ -78,7 +78,7 @@ Potential Concerns:
 
 License
 
-This project is licensed under the MIT License - [see the [LICENSE](LICENSE) file for details.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This project is licensed under the MIT License - file for details.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 References
